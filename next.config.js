@@ -1,2 +1,12 @@
 /** @type {import('next').NextConfig} */
-module.exports={images:{unoptimized:true}}
+const nextConfig = {
+  images: {
+    unoptimized: true,
+  },
+  // Ensure public folder is properly served
+  publicRuntimeConfig: {
+    staticFolder: '/public',
+  },
+};
+
+module.exports = nextConfig;
