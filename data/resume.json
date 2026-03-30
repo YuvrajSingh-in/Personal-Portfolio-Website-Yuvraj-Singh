@@ -1,0 +1,150 @@
+{
+  "basics": {
+    "name": "Yuvraj Singh",
+    "label": "AI Engineer & Cybersecurity Specialist",
+    "email": "yuvrajsinghie@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/yuvrajsinghie/",
+    "github": "https://github.com/thakursahab2580-lgtm",
+    "location": "Dublin, Ireland",
+    "summary": "AI Engineer specialising in cybersecurity applications, with hands-on experience in SOC operations and ML-based system development. Worked at Noida Power Company Limited monitoring security logs, supporting incident response, and contributing to vulnerability and patch management. Currently pursuing MSc in Artificial Intelligence at National College of Ireland."
+  },
+  "roles": ["AI Engineer", "SOC Specialist", "ML Developer", "Cyber Security"],
+  "experience": [
+    {
+      "company": "Noida Power Company Limited",
+      "short": "NPCL",
+      "role": "Cyber Security Engineer",
+      "type": "Full-time",
+      "dates": "Jul 2024 – Jul 2025",
+      "duration": "1 yr 1 mo",
+      "location": "Greater Noida, India · On-site",
+      "bullets": [
+        "Monitored and analysed security logs using SIEM tools (Splunk/ELK) to identify potential threats in real time",
+        "Investigated security incidents and supported incident response — alert validation, escalation, and triage",
+        "Conducted vulnerability assessments and coordinated patch management to improve system security posture",
+        "Collaborated with internal teams to strengthen security monitoring and reduce incident response time"
+      ],
+      "skills": ["SIEM (Splunk/ELK)", "Incident Response", "Patch Management", "Threat Detection", "Vulnerability Assessment"]
+    },
+    {
+      "company": "Noida Power Company Limited",
+      "short": "NPCL",
+      "role": "Security Intern",
+      "type": "Internship",
+      "dates": "Feb 2024 – Jun 2024",
+      "duration": "5 mos",
+      "location": "Greater Noida, India · On-site",
+      "bullets": [
+        "Assisted the Information Security Division with routine monitoring activities and internal coordination",
+        "Gained exposure to security tools, advisory handling processes, and basic infrastructure support",
+        "Worked across teams in a 24×7 SOC setup, contributing to documentation, user activity reviews, and technical assessments"
+      ],
+      "skills": ["SOC", "Threat & Vulnerability Management", "Security Monitoring", "Documentation"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Destiny AI",
+      "subtitle": "Offline Desktop Assistant",
+      "dates": "Dec 2025 – Feb 2026",
+      "desc": "Offline AI-powered desktop assistant with real-time voice command execution. Privacy-focused — zero cloud dependency. Built with a cinematic PyQt6 interface.",
+      "stack": ["Python", "PyQt6", "Speech Recognition", "Offline NLP", "System Automation"],
+      "github": "https://github.com/thakursahab2580-lgtm/destiny-desktop-ai",
+      "highlight": true
+    },
+    {
+      "title": "ResolveIT AI",
+      "subtitle": "AI-Powered IT Helpdesk",
+      "dates": "Jan 2026 – Feb 2026",
+      "desc": "AI helpdesk automation that classifies and resolves support tickets using NLP. Real-time dashboard for ticket monitoring, analytics, and performance tracking.",
+      "stack": ["Python", "NLP", "Machine Learning", "Flask", "FastAPI"],
+      "github": "https://github.com/thakursahab2580-lgtm/ai-helpdesk-system",
+      "highlight": true
+    },
+    {
+      "title": "Phishing Simulation Program",
+      "subtitle": "Cybersecurity Awareness",
+      "dates": "Jul 2024 – Jul 2025",
+      "desc": "Designed and delivered cybersecurity awareness training at NPCL. Conducted simulated phishing campaigns to assess user behaviour and close security awareness gaps.",
+      "stack": ["Phishing Simulation", "Security Training", "Risk Awareness", "GoPhish"],
+      "github": "",
+      "highlight": false
+    },
+    {
+      "title": "Enterprise MDM",
+      "subtitle": "ManageEngine Implementation",
+      "dates": "Feb 2025 – Apr 2025",
+      "desc": "Implemented ManageEngine MDM across enterprise devices. Enforced centralised device policies, encryption, access restrictions, and application management.",
+      "stack": ["ManageEngine", "MDM", "Endpoint Security", "Policy Management"],
+      "github": "",
+      "highlight": false
+    },
+    {
+      "title": "CyberArk PAM",
+      "subtitle": "Privileged Access Management",
+      "dates": "Dec 2024 – Mar 2025",
+      "desc": "Deployed CyberArk PAM in enterprise environment. Managed privileged account access, enforced least-privilege policies, and integrated with existing IT infrastructure.",
+      "stack": ["CyberArk", "PAM", "IAM", "Access Control", "Enterprise Security"],
+      "github": "",
+      "highlight": false
+    },
+    {
+      "title": "Facial Recognition Auth",
+      "subtitle": "AI Passenger Verification",
+      "dates": "Nov 2023 – Feb 2024",
+      "desc": "Computer vision system for automated passenger identity verification. Real-time face detection and matching using Python and OpenCV against stored records.",
+      "stack": ["Python", "OpenCV", "Facial Recognition", "Computer Vision"],
+      "github": "",
+      "highlight": false
+    },
+    {
+      "title": "AI Placement Platform",
+      "subtitle": "Full-Stack EdTech",
+      "dates": "Jan 2024 – Apr 2024",
+      "desc": "Full-stack web platform for placement preparation. Personalised recommendation system for skill gaps, mock tests, progress tracking, and performance analytics.",
+      "stack": ["Python", "Recommendation System", "Flask", "SQL"],
+      "github": "",
+      "highlight": false
+    },
+    {
+      "title": "Threat Detection System",
+      "subtitle": "SOC Monitoring Platform",
+      "dates": "Jul 2024 – Sep 2024",
+      "desc": "Monitoring strategies to detect and respond to enterprise cybersecurity threats. Analysed system logs, identified attack patterns, and optimised incident response workflows.",
+      "stack": ["SIEM", "Threat Detection", "Log Analysis", "Incident Response"],
+      "github": "",
+      "highlight": false
+    }
+  ],
+  "skills": [
+    "Python", "Machine Learning", "NLP / LLMs",
+    "Cybersecurity", "SOC Operations", "SIEM (Splunk/ELK)",
+    "Threat Detection", "Incident Response", "Vulnerability Assessment",
+    "CyberArk / PAM", "MDM / Endpoint Security", "IAM / Access Control",
+    "Computer Vision", "OpenCV", "PyQt6",
+    "Flask / FastAPI", "SQL", "Linux"
+  ],
+  "certs": [
+    { "name": "Data Analytics & Visualization", "issuer": "Accenture", "date": "Jul 2023" },
+    { "name": "Cybersecurity Threat Management", "issuer": "LinkedIn Learning", "date": "Aug 2024" },
+    { "name": "Introduction to Cybersecurity", "issuer": "Cisco Networking Academy", "date": "Aug 2024" },
+    { "name": "Python Programming", "issuer": "Internshala", "date": "May 2022" }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science — Artificial Intelligence",
+      "school": "National College of Ireland",
+      "location": "Dublin, Ireland",
+      "dates": "Sep 2025 – Sep 2026",
+      "skills": ["Machine Learning", "AI Systems", "Code of Ethics"]
+    },
+    {
+      "degree": "Bachelor of Computer Applications",
+      "school": "GLA University",
+      "location": "India",
+      "dates": "Aug 2021 – Jun 2024",
+      "grade": "A+",
+      "skills": ["Core Java", "Python", "Computer Science"]
+    }
+  ]
+}
