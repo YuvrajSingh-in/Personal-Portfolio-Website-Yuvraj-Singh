@@ -4,7 +4,7 @@
     "label": "AI Engineer & Cybersecurity Specialist",
     "email": "yuvrajsinghie@gmail.com",
     "linkedin": "https://www.linkedin.com/in/yuvrajsinghie/",
-    "github": "https://github.com/thakursahab2580-lgtm",
+    "github": "https://github.com/YuvrajSingh-in",
     "location": "Dublin, Ireland",
     "summary": "AI Engineer specialising in cybersecurity applications, with hands-on experience in SOC operations and ML-based system development. Worked at Noida Power Company Limited monitoring security logs, supporting incident response, and contributing to vulnerability and patch management. Currently pursuing MSc in Artificial Intelligence at National College of Ireland."
   },
@@ -49,7 +49,7 @@
       "dates": "Dec 2025 – Feb 2026",
       "desc": "Offline AI-powered desktop assistant with real-time voice command execution. Privacy-focused — zero cloud dependency. Built with a cinematic PyQt6 interface.",
       "stack": ["Python", "PyQt6", "Speech Recognition", "Offline NLP", "System Automation"],
-      "github": "https://github.com/thakursahab2580-lgtm/destiny-desktop-ai",
+      "github": "https://github.com/YuvrajSingh-in/destiny-desktop-ai",
       "highlight": true
     },
     {
@@ -58,7 +58,7 @@
       "dates": "Jan 2026 – Feb 2026",
       "desc": "AI helpdesk automation that classifies and resolves support tickets using NLP. Real-time dashboard for ticket monitoring, analytics, and performance tracking.",
       "stack": ["Python", "NLP", "Machine Learning", "Flask", "FastAPI"],
-      "github": "https://github.com/thakursahab2580-lgtm/ai-helpdesk-system",
+      "github": "https://github.com/YuvrajSingh-in/ai-helpdesk-system",
       "highlight": true
     },
     {
