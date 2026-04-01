@@ -4,7 +4,7 @@ import './globals.css';
 export const metadata: Metadata = {
   title: 'Yuvraj Singh — AI Engineer & Cybersecurity',
   description: 'MSc AI at National College of Ireland. SOC Engineer, NLP builder, AI systems developer. Open to AI Engineering & Cybersecurity roles.',
-  openGraph: { title: 'Yuvraj Singh', images: ['/profile.jpg'] },
+  openGraph: { title: 'Yuvraj Singh', images: ['/Profile.jpg'] },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
